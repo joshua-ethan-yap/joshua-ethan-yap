@@ -15,6 +15,5 @@ I'm currently studying my Bachelor in Software Engineering.
 - ⚡ Fun fact: I know a 100 digits of pi!
 
 ## My socials:
-GitHub: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joshua-ethan-yap)  
-LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshua-ethan-yap/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joshua-ethan-yap)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshua-ethan-yap/) 
 
