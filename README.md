@@ -1,4 +1,4 @@
-### Welcome to my personal repository! 👋
+# Welcome to my personal repository! 👋
 
 Hey there. My name is *Joshua Ethan Yap Qing You*, and I am currently studying in **Monash University, Malaysia**.
 I'm currently studying my Bachelor in Software Engineering.
